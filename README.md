@@ -1,7 +1,7 @@
 # 🐅 Tiger Movement Prediction with Zone Classification and Red Zone Visualization
 
 
-Team Memebers
+Team Memebers  
 Rudra Saini - 500109466  AIML B2  
 Ashutosh Pant - 500109916 AIML B2
 
