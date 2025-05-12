@@ -2,7 +2,7 @@
 
 
 Team Memebers
-Rudra Saini - 500109466  AIML B2
+Rudra Saini - 500109466  AIML B2  
 Ashutosh Pant - 500109916 AIML B2
 
 This project predicts the possible future location zone of a tiger in the Jim Corbett sanctuary based on historical GPS data, temperature, and timestamp features. Additionally, it visualizes high-risk ("Red Zone") areas based on clustering patterns in past movements.
